@@ -1,3 +1,5 @@
 .vscode/
 *.exe
 output/
+build/
+player_logs.txt
